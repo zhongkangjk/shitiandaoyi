@@ -16,7 +16,7 @@ const { theme, page, frontmatter } = useData()
 </script>
 
 ## Results
-89757
+
 ### Theme Data
 <pre>{{ theme }}</pre>
 
