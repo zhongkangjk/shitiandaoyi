@@ -2,6 +2,8 @@ import { defineConfig } from 'vitepress'
 import { set_sidebar } from './utils/auto-sidebar.mjs'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  // 设置目录
+  base: '/shitiandaoyi/',
   title: "世天道一",
   description: "均衡，存乎万物之间",
   themeConfig: {
