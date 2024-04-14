@@ -80,7 +80,7 @@ export default defineConfig({
     //底部配置
     footer: {
       // message: 'Released under the MIT License.',
-      copyright: 'Copyright © 懒派大弟子 2045'
+      copyright: 'Copyright © 世天道一 2045'
     },
     docFooter: {
 
