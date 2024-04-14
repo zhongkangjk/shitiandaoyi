@@ -15,11 +15,11 @@ hero:
   actions:
   # 主题选项： https://vitepress.dev/reference/default-theme-config#hero
     - theme: brand
-      text: 懒得理你
+      text: 懒派广场
       link: https://bbs.05320532.xyz
     - theme: alt
-      text: 理你
-      link: https://bbs.05320532.xyz
+      text: 懒派藏宝阁
+      link: https://alist.05320532.xyz
 
 # features:
 #   - title: 我的书签

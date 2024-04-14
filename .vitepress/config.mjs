@@ -1,15 +1,25 @@
 import { defineConfig } from 'vitepress'
 import { set_sidebar } from './utils/auto-sidebar.mjs'
 // https://vitepress.dev/reference/site-config
+
+//自定义翻页按钮 回到上方按钮文字
+
+
+
+
+
+
 export default defineConfig({
   head: [
     ['link', { rel: 'icon', href: '/logo.png' }],
   ],
+  srcDir: '',
   // 设置目录
   // base: '/shitiandaoyi/',
   title: "世天道一",
   description: "懒派掌门CEO与大弟子",
   themeConfig: {
+    // https://vitepress.dev/reference/default-theme-config
     //设置搜索框
     search: {
       provider: "local",
@@ -25,6 +35,7 @@ export default defineConfig({
             footer: {
               selectText: "选择",
               navigateText: "切换",
+              closeText: "关闭",
             },
           },
         },
@@ -36,10 +47,15 @@ export default defineConfig({
     logo: 'logo.png',
     nav: [
       // { text: '主页', link: '/' },
-      { text: '知识', link: '/note/zhishi/' },
-      { text: '想法', link: '/note/xiangfa/' },
-      { text: '小说', link: '/note/xiaoshuo/' },
-
+      { text: '名词', link: '/note/mingci/懒派成员构成解析' },
+      { text: '想法', link: '/note/xiangfa/完美的预设' },
+      { text: '小说', link: '/note/xiaoshuo/谜语' },
+      { text: '自行车', link: '/note/zixingche/调变速' },
+      { text: '幻唐志', link: '/note/huantangzhi/宠物成长计算' },
+      { text: '电脑', items: [
+        { text: '代码', link: '/note/diannao/daima/pandas' },
+        { text: '应用', link: '/note/diannao/yingyong/装了win11的设置' },
+      ]}
       // { text: '实力', items: [
       //   { text: '实力1', link: '/note/ceshi/' },
       //   { text: '实力2', link: '/note/ceshi2/' }
@@ -48,9 +64,13 @@ export default defineConfig({
     //侧边栏
     sidebar: {
 
-      "/note/zhishi/": set_sidebar("/note/zhishi/"),
+      "/note/mingci/": set_sidebar("/note/mingci/"),
       "/note/xiangfa/": set_sidebar("/note/xiangfa/"),
       "/note/xiaoshuo/": set_sidebar("/note/xiaoshuo/"),
+      "/note/zixingche/": set_sidebar("/note/zixingche/"),
+      "/note/huantangzhi/": set_sidebar("/note/huantangzhi/"),
+      "/note/diannao/daima/": set_sidebar("/note/diannao/daima/"),
+      "/note/diannao/yingyong/": set_sidebar("/note/diannao/yingyong/"),
     },
 
 
@@ -60,8 +80,16 @@ export default defineConfig({
     //底部配置
     footer: {
       // message: 'Released under the MIT License.',
-      copyright: 'Copyright © 懒派大弟子 20'
-    }
+      copyright: 'Copyright © 懒派大弟子 2045'
+    },
+    docFooter: {
+
+      prev: '上一页',
+      next: '已损坏的按钮'
+
+    },
+    returnToTopLabel: '回到顶部',
     
+
   }
 })
