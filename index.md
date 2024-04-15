@@ -7,7 +7,7 @@ hero:
   text: "平日各扫门前雪"
   tagline: 急难也惧火中莲
   image: 
-    # src: 'beijing.jpg'
+    src: 'beijing.png'
     alt: '背景图片'
 
 
