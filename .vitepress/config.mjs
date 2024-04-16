@@ -49,11 +49,11 @@ export default defineConfig({
       // { text: '主页', link: '/' },
       { text: '名词', link: '/note/mingci/懒派成员构成解析' },
       { text: '想法', link: '/note/xiangfa/完美的预设' },
-      { text: '小说', link: '/note/xiaoshuo/谜语' },
+      { text: '小说', link: '/note/xiaoshuo/天下圣贤豪杰' },
       { text: '自行车', link: '/note/zixingche/调变速' },
-      { text: '幻唐志', link: '/note/huantangzhi/宠物成长计算' },
+      { text: '幻唐志', link: '/note/huantangzhi/钓鱼' },
       { text: '电脑', items: [
-        { text: '代码', link: '/note/diannao/daima/pandas' },
+        { text: '代码', link: '/note/diannao/daima/HEIC格式的图片转换为jpg' },
         { text: '应用', link: '/note/diannao/yingyong/装了win11的设置' },
       ]}
       // { text: '实力', items: [
