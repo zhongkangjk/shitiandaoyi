@@ -56,7 +56,7 @@ hero:
 **[书栈网](https://www.bookstack.cn/)**|
 **[9DM](http://www.9dmsgame.com/)**|
 **[IT图书分享](https://itbox.cc/)**|
-**[TG频道推荐](https://www.tgqun.xyz/)**|
+**[TG频道推荐](https://rectg.com/)**|
 **[音乐解锁](https://demo.unlock-music.dev/)**|
 **[电影导航](https://www.f7s.net/)**|
 **[AI-poe](https://poe.com/)**|
