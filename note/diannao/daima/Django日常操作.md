@@ -1,18 +1,17 @@
----
-title: Django日常操作
-categories:
-  - 计算机
-  - python
-tags:
-  - django
-date: 2022-03-09 15:52:21
----
-日常复制
-<!-- more -->
 #### 创建应用
 `django-admin startproject 项目名字`
 #### 创建APP
 `python manage.py startapp APP名字`
+#### 迁移数据库
+`python manage.py makemigrations`
+#### 运行数据库
+`python manage.py migrate`
+#### 收集静态文件
+`python manage.py collectstatic`
+#### 启动项目
+`python manage.py runserver`
+#### 创建超级用户
+`python manage.py createsuperuser`
 #### 创建APP以后
 settings中增加INSTALLED_APPS,
 APP内增加分url
@@ -57,3 +56,4 @@ def hellolist(request):
     list = [1,2,3,4,5]
     return Response(list)
 ```
+
