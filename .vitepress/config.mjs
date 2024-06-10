@@ -47,7 +47,7 @@ export default defineConfig({
     logo: 'logo.png',
     nav: [
       // { text: '主页', link: '/' },
-      { text: '名词', link: '/note/mingci/懒派成员构成解析' },
+      { text: '名词', link: '/note/mingci/懒派' },
       { text: '想法', link: '/note/xiangfa/完美的预设' },
       { text: '小说', link: '/note/xiaoshuo/天下圣贤豪杰' },
       { text: '自行车', link: '/note/zixingche/调变速' },
