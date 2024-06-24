@@ -107,6 +107,7 @@ hero:
 **[IT图书分享](https://itbox.cc/)**|
 **[默沙东诊疗手册](https://www.msdmanuals.cn/)**|
 **[开源阅读](https://gedoor.github.io/)**|
+**[识典古籍](https://www.shidianguji.com/)**|
 
 ### 工具&软件
 **[worker-vless](https://github.com/zizifn/edgetunnel/blob/main/src/worker-vless.js)**|
