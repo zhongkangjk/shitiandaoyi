@@ -110,6 +110,7 @@ hero:
 **[识典古籍](https://www.shidianguji.com/)**|
 
 ### 工具&软件
+**[必剪提取字幕](https://tool.05320532.xyz/bijian/)**|
 **[worker-vless](https://github.com/zizifn/edgetunnel/blob/main/src/worker-vless.js)**|
 **[CF优选IP](http://ip.flares.cloud/)**|
 **[CF优质IP](https://stock.hostmonit.com/CloudFlareYes)**|
