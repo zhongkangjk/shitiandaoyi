@@ -98,3 +98,14 @@ date = now().date() + timedelta(days=-1) #昨天
 date = now().date() + timedelta(days=0) #今天
 date = now().date() + timedelta(days=1) #明天
 ```
+
+#### 部署以后登录后台显示403CSRF
+```python
+# 修改settings.py文件
+
+CSRF_TRUSTED_ORIGINS = [
+    'https://具体网址',
+    # 其他可信任的来源
+]
+
+```
