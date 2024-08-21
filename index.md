@@ -72,6 +72,7 @@ hero:
 **[Cloudcone](https://app.cloudcone.com/?ref=5264)**|
 **[樱花内网穿透](https://www.natfrp.com/)**|
 **[Cloudflare](https://dash.cloudflare.com/)**|
+**[七牛云](https://portal.qiniu.com/home)**|
 **[Virmach](https://billing.virmach.com/)**|
 **[Vultr](https://www.vultr.com/?ref=7577665)**|
 **[Freenom](https://www.freenom.com/zu/index.html?lang=zu)**|
