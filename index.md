@@ -111,6 +111,7 @@ hero:
 
 ### 工具&软件
 **[必剪提取字幕](https://tool.05320532.xyz/bijian/)**|
+**[JJ下载B站视频](https://www.jijidown.com/)**|
 **[worker-vless](https://github.com/zizifn/edgetunnel/blob/main/src/worker-vless.js)**|
 **[CF优选IP](http://ip.flares.cloud/)**|
 **[CF优质IP](https://stock.hostmonit.com/CloudFlareYes)**|
