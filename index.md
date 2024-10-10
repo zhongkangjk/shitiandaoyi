@@ -7,8 +7,8 @@ hero:
   text: "大标题"
   tagline: 小标题
   image: 
-    src: 'https://q1.05320532.xyz/PicGo/yooo.png'
-    alt: '背景图片'
+    # src: 'https://q1.05320532.xyz/PicGo/yooo.png'
+    alt: '一张加载很快的背景图片'
 
 
 
