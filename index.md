@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "易の导航页（自家用）"
-  text: "大标题"
-  tagline: 小标题
+  text: "有约不来过夜半"
+  tagline: 闲敲棋子落灯花
   image: 
     # src: 'https://q1.05320532.xyz/PicGo/yooo.png'
     alt: '一张加载很快的背景图片'
