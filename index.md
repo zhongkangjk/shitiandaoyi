@@ -67,6 +67,7 @@ hero:
 **[IGG](https://igg-games.com/)**|
 **[pcgames](https://pcgamestorrents.com/)**|
 **[开心电玩](https://www.kxdw.com/games/)**|
+**[迅雷游戏资源](https://pan.xunlei.com/s/VO6pNlw6JhEpJfnMOmUev1ViA1?pwd=h6ji#)**|
 
 ### 云服务
 **[Cloudcone](https://app.cloudcone.com/?ref=5264)**|
