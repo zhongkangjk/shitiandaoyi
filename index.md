@@ -49,6 +49,7 @@ hero:
 **[导航网站](https://item.ink/)**|
 **[电影导航](https://www.mfdy.com/)**|
 **[电影导航2](https://www.f7s.net/)**|
+**[笔点资源](https://www.bidianer.com/)**|
 
 
 ### AI
