@@ -53,6 +53,7 @@ hero:
 
 
 ### AI
+**[deepseek](https://chat.deepseek.com/)**|
 **[GPT](https://chatgpt.com/)**|
 **[微软copilot](https://copilot.microsoft.com/)**|
 **[Kimi](https://kimi.moonshot.cn/)**|
@@ -61,6 +62,7 @@ hero:
 **[AI-工具集](https://ai-bot.cn/)**|
 **[GPTs](https://chat.openai-now.com/zh)**|
 **[gemini](https://gemini.google.com/app)**|
+
 
 ### 游戏
 **[switch520](https://www.gamer520.com/)**|
@@ -113,6 +115,7 @@ hero:
 **[识典古籍](https://www.shidianguji.com/)**|
 
 ### 工具&软件
+**[JJdown](http://client.jijidown.com/)**|
 **[必剪提取字幕](https://tool.05320532.xyz/bijian/)**|
 **[JJ下载B站视频](https://www.jijidown.com/)**|
 **[worker-vless](https://github.com/zizifn/edgetunnel/blob/main/src/worker-vless.js)**|
