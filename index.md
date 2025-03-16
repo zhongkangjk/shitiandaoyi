@@ -47,8 +47,7 @@ hero:
 **[lol数据](https://101.qq.com/#/hero-rank-fight)**|
 **[V2EX](https://www.v2ex.com/)**|
 **[导航网站](https://item.ink/)**|
-**[电影导航](https://www.mfdy.com/)**|
-**[电影导航2](https://www.f7s.net/)**|
+**[电影导航](https://www.f7s.net/)**|
 **[笔点资源](https://www.bidianer.com/)**|
 
 
@@ -115,6 +114,7 @@ hero:
 **[识典古籍](https://www.shidianguji.com/)**|
 
 ### 工具&软件
+**[维修指南网站](https://zh.ifixit.com/)**|
 **[JJdown](http://client.jijidown.com/)**|
 **[必剪提取字幕](https://tool.05320532.xyz/bijian/)**|
 **[JJ下载B站视频](https://www.jijidown.com/)**|
@@ -145,3 +145,4 @@ hero:
 **[tslow](https://tslow.cn/)**|
 **[追梦人物](https://www.zmrenwu.com/)**|
 **[不良林](https://bulianglin.com/)**|
+
