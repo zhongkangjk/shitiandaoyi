@@ -51,6 +51,8 @@ hero:
 **[笔点资源](https://www.bidianer.com/)**|
 
 
+
+
 ### AI
 **[deepseek](https://chat.deepseek.com/)**|
 **[GPT](https://chatgpt.com/)**|
@@ -130,6 +132,8 @@ hero:
 **[在线文本转语音](https://www.text-to-speech.cn/)**|
 **[前方资源](https://qianfangzy.com/)**|
 **[藏宝湾](https://www.iopq.net/)**|
+**[小妖怪分享](https://www.xyg688.com/)**|
+**[资源避难所](https://www.flysheep6.com/)**|
 
 
 
