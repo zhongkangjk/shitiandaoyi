@@ -116,6 +116,7 @@ hero:
 **[识典古籍](https://www.shidianguji.com/)**|
 
 ### 工具&软件
+**[网易云音乐解析](https://api.toubiec.cn/wyapi.html)**|
 **[维修指南网站](https://zh.ifixit.com/)**|
 **[JJdown](http://client.jijidown.com/)**|
 **[必剪提取字幕](https://tool.05320532.xyz/bijian/)**|
