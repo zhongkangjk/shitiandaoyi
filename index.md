@@ -7,7 +7,7 @@ hero:
   text: "有约不来过夜半"
   tagline: 闲敲棋子落灯花
   image: 
-    src: 'https://q1.05320532.xyz/PicGo/yooo.png'
+    src: 'https://q1.05320532.xyz/PicGo/t.jpg'
     alt: '一张加载很快的背景图片'
 
 
