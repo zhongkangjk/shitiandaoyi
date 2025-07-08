@@ -51,7 +51,7 @@ export default defineConfig({
       { text: '想法', link: '/note/xiangfa/完美的预设' },
       { text: '小说', link: '/note/xiaoshuo/天下圣贤豪杰' },
       { text: '自行车', link: '/note/zixingche/调变速' },
-      { text: '幻唐志', link: '/note/huantangzhi/钓鱼' },
+      { text: '游戏', link: '/note/youxi/CS准星设置' },
       { text: '电脑', items: [
         { text: '代码', link: '/note/diannao/daima/HEIC格式的图片转换为jpg' },
         { text: '应用', link: '/note/diannao/yingyong/装了win11的设置' },
@@ -68,7 +68,7 @@ export default defineConfig({
       "/note/xiangfa/": set_sidebar("/note/xiangfa/"),
       "/note/xiaoshuo/": set_sidebar("/note/xiaoshuo/"),
       "/note/zixingche/": set_sidebar("/note/zixingche/"),
-      "/note/huantangzhi/": set_sidebar("/note/huantangzhi/"),
+      "/note/youxi/": set_sidebar("/note/youxi/"),
       "/note/diannao/daima/": set_sidebar("/note/diannao/daima/"),
       "/note/diannao/yingyong/": set_sidebar("/note/diannao/yingyong/"),
     },

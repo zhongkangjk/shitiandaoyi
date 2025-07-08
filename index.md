@@ -40,15 +40,15 @@ hero:
 **[神武贴吧](https://tieba.baidu.com/f?kw=%E7%A5%9E%E6%AD%A6%E9%80%8D%E9%81%A5%E5%A4%96%E4%BC%A0&ie=utf-8)**|
 **[B站](https://t.bilibili.com/)**|
 **[有t又不](https://www.youtube.com/)**|
-**[音乐磁场](https://www.hifini.com/)**|
 **[奇客资讯](https://www.solidot.org/)**|
 **[游民星空](https://www.gamersky.com/)**|
 **[3DM](https://bbs.3dmgame.com/)**|
 **[lol数据](https://101.qq.com/#/hero-rank-fight)**|
 **[V2EX](https://www.v2ex.com/)**|
 **[导航网站](https://item.ink/)**|
-**[电影导航](https://www.f7s.net/)**|
 **[笔点资源](https://www.bidianer.com/)**|
+
+
 
 
 
@@ -72,6 +72,14 @@ hero:
 **[pcgames](https://pcgamestorrents.com/)**|
 **[开心电玩](https://www.kxdw.com/games/)**|
 
+### 影音
+**[HiFiNi 帖子快照](https://hi.716228.xyz/)**|
+**[网易云音乐解析](https://api.toubiec.cn/wyapi.html)**|
+**[音乐解锁](https://demo.unlock-music.dev/)**|
+**[电影导航](https://www.f7s.net/)**|
+**[瓜子影视](https://gz857.com/)**|
+**[可可影视](https://www.keke6.app/)**|
+
 
 ### 云服务
 **[Cloudcone](https://app.cloudcone.com/?ref=5264)**|
@@ -84,7 +92,7 @@ hero:
 **[138vps](https://www.138vps.com/)**|
 **[建站百科](https://www.jzbk.net/)**|
 **[sms-activate](https://sms-activate.org/cn)**|
-**[spaceship](https://www.spaceship.com/)**|
+**[spaceship](https://www.spaceship.com/)**(我购买域名的网站)|
 **[CNPM镜像](https://registry.npmmirror.com/binary.html)**|
 
 ### 框架
@@ -116,7 +124,7 @@ hero:
 **[识典古籍](https://www.shidianguji.com/)**|
 
 ### 工具&软件
-**[网易云音乐解析](https://api.toubiec.cn/wyapi.html)**|
+**[QtScrcpy(windows控制安卓)](https://github.com/barry-ran/QtScrcpy)**|
 **[维修指南网站](https://zh.ifixit.com/)**|
 **[JJdown](http://client.jijidown.com/)**|
 **[必剪提取字幕](https://tool.05320532.xyz/bijian/)**|
@@ -127,7 +135,6 @@ hero:
 **[有道翻译](https://fanyi.youdao.com/)**|
 **[Ping.pe](https://ping.pe/)**|
 **[v2rayN发行版](https://github.com/2dust/v2rayN/releases)**|
-**[音乐解锁](https://demo.unlock-music.dev/)**|
 **[佳能打印素材](https://creativepark.canon/sc/index.html)**|
 **[TG频道推荐](https://rectg.com/)**|
 **[在线文本转语音](https://www.text-to-speech.cn/)**|
@@ -136,6 +143,9 @@ hero:
 **[小妖怪分享](https://www.xyg688.com/)**|
 **[资源避难所](https://www.flysheep6.com/)**|
 **[APP喵资源](https://www.appmiu.com/)**|
+**[FC8软件库](https://fc8.top/)**|
+**[jellyfin(流媒体分享软件)](https://github.com/jellyfin/jellyfin)**|
+**[423软件下载](https://www.423down.com/)**|
 
 
 
@@ -151,8 +161,3 @@ hero:
 **[tslow](https://tslow.cn/)**|
 **[追梦人物](https://www.zmrenwu.com/)**|
 **[不良林](https://bulianglin.com/)**|
-
-
-
-### 影视
-**[可可影视](https://www.keke6.app/)**|
