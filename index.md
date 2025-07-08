@@ -135,6 +135,7 @@ hero:
 **[藏宝湾](https://www.iopq.net/)**|
 **[小妖怪分享](https://www.xyg688.com/)**|
 **[资源避难所](https://www.flysheep6.com/)**|
+**[APP喵资源](https://www.appmiu.com/)**|
 
 
 
