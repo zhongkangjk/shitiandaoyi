@@ -146,6 +146,7 @@ hero:
 **[FC8软件库](https://fc8.top/)**|
 **[jellyfin(流媒体分享软件)](https://github.com/jellyfin/jellyfin)**|
 **[423软件下载](https://www.423down.com/)**|
+**[软件个锤子](https://www.rjgcz.com/)**|
 
 
 
