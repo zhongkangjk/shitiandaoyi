@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "易の导航页（自家用）"
+  name: "舅の导航页（自家用）"
   text: "有约不来过夜半"
   tagline: 闲敲棋子落灯花
   image: 
