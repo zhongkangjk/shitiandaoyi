@@ -2,7 +2,7 @@ import path from 'node:path';
 import fs from 'node:fs';
 
 // 文件根目录
-const DIR_PATH = path.resolve();
+const DIR_PATH = path.resolve(process.cwd());
 // 白名单,过滤不是文章的文件和文件夹
 const WHITE_LIST = ['index.md', '.vitepress', 'node_modules', '.idea', 'assets','public'];
 
@@ -15,26 +15,49 @@ const intersections = (arr1, arr2) => Array.from(new Set(arr1.filter((item) => !
 // 递归遍历目录，生成侧边栏菜单
 function getList(params, path1, pathname) {
     const res = [];
-    for (let file in params) {
-        const dir = path.join(path1, params[file]);
+    // 先处理所有文件，后处理文件夹
+    const files = [];
+    const dirs = [];
+    
+    for (let file of params) {
+        const dir = path.join(path1, file);
         const isDir = isDirectory(dir);
         if (isDir) {
-            const files = fs.readdirSync(dir);
-            res.push({
-                text: params[file],
-                collapsible: true,
-                items: getList(files, dir, `${pathname}/${params[file]}`),
-            });
+            dirs.push(file);
         } else {
-            const name = path.basename(params[file], '.md');
-            const suffix = path.extname(params[file]);
-            if (suffix !== '.md') continue;
-            res.push({
-                text: name,
-                link: `${pathname}/${name}`,
-            });
+            const suffix = path.extname(file);
+            if (suffix === '.md') {
+                files.push(file);
+            }
         }
     }
+    
+    // 对文件进行排序（按文件名排序）
+    files.sort((a, b) => a.localeCompare(b, 'zh-CN'));
+    
+    // 先添加文件
+    for (let file of files) {
+        const name = path.basename(file, '.md');
+        res.push({
+            text: name,
+            link: `${pathname}${name}`,
+        });
+    }
+    
+    // 对文件夹进行排序（按文件夹名排序）
+    dirs.sort((a, b) => a.localeCompare(b, 'zh-CN'));
+    
+    // 再添加文件夹
+    for (let dir of dirs) {
+        const dirPath = path.join(path1, dir);
+        const subFiles = fs.readdirSync(dirPath);
+        res.push({
+            text: dir,
+            collapsible: true,
+            items: getList(subFiles, dirPath, `${pathname}${dir}`),
+        });
+    }
+    
     return res;
 }
 

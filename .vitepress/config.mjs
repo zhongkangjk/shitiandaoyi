@@ -83,10 +83,8 @@ export default defineConfig({
       copyright: 'Copyright © 世天道一 2045'
     },
     docFooter: {
-
-      prev: '上一页',
-      next: '已损坏的按钮'
-
+      prev: '上一篇',
+      next: '下一篇'
     },
     returnToTopLabel: '回到顶部',
     
