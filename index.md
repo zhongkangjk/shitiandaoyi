@@ -33,7 +33,11 @@ hero:
  
 ---
 
-
+### 自家网站
+**[BBS](https://bbs.05320532.xyz)**|
+**[云盘](https://alist.05320532.xyz)**|
+**[必剪提取字幕](https://tool.05320532.xyz/bijian/)**|
+**[音频裁剪工具](https://tool.05320532.xyz/music-cut/)**|
 
 
 ### 信息
@@ -127,7 +131,6 @@ hero:
 **[QtScrcpy(windows控制安卓)](https://github.com/barry-ran/QtScrcpy)**|
 **[维修指南网站](https://zh.ifixit.com/)**|
 **[JJdown](http://client.jijidown.com/)**|
-**[必剪提取字幕](https://tool.05320532.xyz/bijian/)**|
 **[JJ下载B站视频](https://www.jijidown.com/)**|
 **[worker-vless](https://github.com/zizifn/edgetunnel/blob/main/src/worker-vless.js)**|
 **[CF优选IP](http://ip.flares.cloud/)**|
