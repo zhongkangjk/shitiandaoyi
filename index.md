@@ -20,6 +20,9 @@ hero:
     - theme: alt
       text: 云盘（自家用）
       link: https://alist.05320532.xyz
+    - theme: alt
+      text: TV（自家用）
+      link: https://tv.05320532.xyz
 
 
 # features:
