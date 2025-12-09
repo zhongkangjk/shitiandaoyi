@@ -11,4 +11,6 @@
 
 ## 激活win11
 irm空格massgrave.dev/get空格|空格iex
-
+```
+irm https://get.activated.win | iex
+```
