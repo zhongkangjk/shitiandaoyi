@@ -158,7 +158,8 @@ hero:
 **[jellyfin(流媒体分享软件)](https://github.com/jellyfin/jellyfin)**|
 **[423软件下载](https://www.423down.com/)**|
 **[软件个锤子](https://www.rjgcz.com/)**|
-
+**[pdf工具](https://tools.pdf24.org/zh/)**|
+**[软仓](https://www.ruancang.net/)**|
 
 
 ### 博客收藏
