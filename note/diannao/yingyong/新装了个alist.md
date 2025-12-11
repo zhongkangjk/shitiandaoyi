@@ -32,3 +32,38 @@ ALIST面板没找到限制大小的选项。
 所以是在软件商店的Nginx设置里的配置修改里修改。
 果然找到了client_max_body_size。
 改一下大小就xin。
+
+
+## alist云盘Webdav该访问哪个地址
+```
+默认格式
+WebDAV 的访问地址通常是：
+
+http://<你的AList域名或IP>:<端口>/dav
+
+
+例如：
+
+如果你在本地运行 AList，地址可能是：
+
+http://127.0.0.1:5244/dav
+
+
+如果你配置了外部域名，比如 alist.example.com，则访问地址为：
+
+http://alist.example.com/dav
+
+
+确认 AList 配置
+
+登录到你的 AList 管理页面。
+
+进入设置 > 服务 > WebDAV，确认 WebDAV 是否已启用，并查看具体的地址和端口。
+
+用户凭证
+WebDAV 通常需要用户名和密码认证：
+
+默认用户名密码与你的 AList 登录账户一致。
+
+如果需要专属 WebDAV 账户，你可以在 AList 的设置 > 账户中创建或修改。
+```
