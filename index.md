@@ -37,6 +37,7 @@ hero:
 ---
 
 ### 自家网站
+**[懒派账本](https://lan.05320532.xyz)**|
 **[BBS](https://bbs.05320532.xyz)**|
 **[云盘](https://alist.05320532.xyz)**|
 **[LanTV](https://tv.05320532.xyz)**|
