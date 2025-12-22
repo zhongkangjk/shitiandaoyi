@@ -23,6 +23,10 @@ hero:
     - theme: alt
       text: TV（自家用）
       link: https://tv.05320532.xyz
+    - theme: brand
+      text: 搬屎大王
+      link: https://news.05320532.xyz
+
 
 
 # features:
@@ -37,7 +41,7 @@ hero:
 ---
 
 ### 自家网站
-**[懒派账本](https://lan.05320532.xyz)**|
+**[搬屎大王](https://news.05320532.xyz)**|
 **[BBS](https://bbs.05320532.xyz)**|
 **[云盘](https://alist.05320532.xyz)**|
 **[LanTV](https://tv.05320532.xyz)**|
