@@ -141,6 +141,7 @@ hero:
 **[识典古籍](https://www.shidianguji.com/)**|
 
 ### 工具&软件
+**[在线工具箱](https://www.convry.com/)**|
 **[QtScrcpy(windows控制安卓)](https://github.com/barry-ran/QtScrcpy)**|
 **[维修指南网站](https://zh.ifixit.com/)**|
 **[JJdown](http://client.jijidown.com/)**|
@@ -165,7 +166,7 @@ hero:
 **[软件个锤子](https://www.rjgcz.com/)**|
 **[pdf工具](https://tools.pdf24.org/zh/)**|
 **[软仓](https://www.ruancang.net/)**|
-
+**[一键激活Windows,office](https://kms.cx/)**|
 
 ### 博客收藏
 **[杜赛](https://www.dusaiphoto.com/)**|
