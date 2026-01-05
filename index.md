@@ -133,7 +133,7 @@ hero:
 
 
 ### 书籍
-**[安娜的档案](https://zh.annas-archive.org/)**|
+**[安娜的档案](https://annas-archive.li/)**|
 **[另一个下书的](https://bk.hallowlib.org/)**|
 **[IT图书分享](https://itbox.cc/)**|
 **[默沙东诊疗手册](https://www.msdmanuals.cn/)**|
