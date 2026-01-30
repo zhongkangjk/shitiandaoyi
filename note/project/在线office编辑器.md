@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./public/logo.svg" width="120" height="120" alt="Office App Logo">
-</p>
-
 <h1 align="center">Office App</h1>
 
 <p align="center">
