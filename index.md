@@ -90,9 +90,7 @@ hero:
 **[TG频道推荐](https://rectg.com/)**|
 **[在线文本转语音](https://www.text-to-speech.cn/)**|
 **[前方资源](https://qianfangzy.com/)**|
-**[藏宝湾](https://www.iopq.net/)**|
 **[小妖怪分享](https://www.xyg688.com/)**|
-**[资源避难所](https://www.flysheep6.com/)**|
 **[APP喵资源](https://www.appmiu.com/)**|
 **[FC8软件库](https://fc8.top/)**|
 **[jellyfin(流媒体分享软件)](https://github.com/jellyfin/jellyfin)**|
@@ -113,7 +111,8 @@ hero:
 **[开心电玩](https://www.kxdw.com/games/)**|
 **[rvgame](https://rvgame.icu/)**|
 **[机地游戏](https://www.jidiyouxi.com/)**|
-
+**[资源避难所](https://www.flysheep6.com/)**|
+**[藏宝湾](https://www.iopq.net/)**|
 
 
 ### 影音
