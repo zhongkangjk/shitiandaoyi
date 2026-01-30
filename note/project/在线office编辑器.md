@@ -75,7 +75,7 @@
    pnpm dev
    ```
 
-4. 在浏览器中访问 [http://localhost:3000](http://localhost:3000)。
+4. 在浏览器中访问 localhost:3000
 
 ## 🚢 部署
 
