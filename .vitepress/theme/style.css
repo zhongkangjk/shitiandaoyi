@@ -137,3 +137,23 @@
   --docsearch-primary-color: var(--vp-c-brand-1) !important;
 }
 
+/**
+ * Home page content links
+ * -------------------------------------------------------------------------- */
+
+.VPHome .vp-doc a {
+  text-decoration: none;
+}
+
+.VPHome .vp-doc a:hover,
+.VPHome .vp-doc a:focus-visible {
+  text-decoration: underline;
+}
+
+.VPHome .vp-doc a + a,
+.VPHome .vp-doc strong + strong {
+  margin-left: 0.5em;
+  padding-left: 0.5em;
+  border-left: 1px solid var(--vp-c-divider);
+}
+
