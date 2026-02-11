@@ -122,6 +122,8 @@ hero:
 **[网易云音乐解析](https://api.toubiec.cn/wyapi.html)**
 **[音乐解锁](https://demo.unlock-music.dev/)**
 **[歌词下载](https://docs.myzony.com/#/)**
+**[seedhub](https://www.seedhub.cc/)**
+**[4K影视](https://4kvm.site/)**
 **[西瓜影院](https://sszzyy.com/)**
 **[电影导航](https://www.f7s.net/)**
 **[低端影视](https://www.ddys.run/)**
