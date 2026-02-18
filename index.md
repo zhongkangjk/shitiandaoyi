@@ -59,6 +59,7 @@ hero:
 **[导航网站](https://item.ink/)**
 **[笔点资源](https://www.bidianer.com/)**
 **[FMHY](https://fmhy.net/)**
+**[硬核指南](https://yinghezhinan.com/)**
 
 
 
