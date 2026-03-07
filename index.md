@@ -81,7 +81,7 @@ hero:
 **[在线工具箱](https://www.convry.com/)**
 **[QtScrcpy(windows控制安卓)](https://github.com/barry-ran/QtScrcpy)**
 **[维修指南网站](https://zh.ifixit.com/)**
-**[JJdown](http://client.jijidown.com/)**
+**[在线视频下载](https://www.datatool.vip/)**
 **[JJ下载B站视频](https://www.jijidown.com/)**
 **[worker-vless](https://github.com/zizifn/edgetunnel/blob/main/src/worker-vless.js)**
 **[CF优选IP](http://ip.flares.cloud/)**
