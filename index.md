@@ -65,15 +65,14 @@ hero:
 
 
 ### AI
-**[deepseek](https://chat.deepseek.com/)**
 **[GPT](https://chatgpt.com/)**
-**[微软copilot](https://copilot.microsoft.com/)**
-**[Kimi](https://kimi.moonshot.cn/)**
-**[poe](https://poe.com/)**
-**[bz](https://chat.gpt.bz/)**
-**[AI-工具集](https://ai-bot.cn/)**
-**[GPTs](https://chat.openai-now.com/zh)**
+**[claud](https://claude.ai/)**
 **[gemini](https://gemini.google.com/app)**
+**[Kimi](https://kimi.moonshot.cn/)**
+**[deepseek](https://chat.deepseek.com/)**
+**[微软copilot](https://copilot.microsoft.com/)**
+**[AI-工具集](https://ai-bot.cn/)**
+
 
 
 
@@ -127,7 +126,8 @@ hero:
 **[4K影视](https://4kvm.site/)**
 **[西瓜影院](https://sszzyy.com/)**
 **[电影导航](https://www.f7s.net/)**
-**[低端影视](https://www.ddys.run/)**
+**[影视仓](https://www.ysctv.com/)**
+**[I8K影视导航](https://i8k.tv/)**
 **[瓜子影视](https://gz857.com/)**
 **[可可影视](https://www.keke6.app/)**
 
