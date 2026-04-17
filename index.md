@@ -60,6 +60,8 @@ hero:
 **[笔点资源](https://www.bidianer.com/)**
 **[FMHY](https://fmhy.net/)**
 **[硬核指南](https://yinghezhinan.com/)**
+**[哈皮资源](https://hapiziyuan.com/)**
+
 
 
 
@@ -81,6 +83,7 @@ hero:
 **[QtScrcpy(windows控制安卓)](https://github.com/barry-ran/QtScrcpy)**
 **[维修指南网站](https://zh.ifixit.com/)**
 **[在线视频下载](https://www.datatool.vip/)**
+**[在线视频下载2](https://cobalt.tools/)**
 **[JJ下载B站视频](https://www.jijidown.com/)**
 **[worker-vless](https://github.com/zizifn/edgetunnel/blob/main/src/worker-vless.js)**
 **[CF优选IP](http://ip.flares.cloud/)**
