@@ -153,7 +153,7 @@ hero:
 
 
 ### 书籍
-**[安娜的档案](https://annas-archive.li/)**
+**[安娜的档案](https://zh.annas-archive.gd/)**
 **[开放教育资源](https://openstax.org/)**
 **[另一个下书的](https://bk.hallowlib.org/)**
 **[IT图书分享](https://itbox.cc/)**
