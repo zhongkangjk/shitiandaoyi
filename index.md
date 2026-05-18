@@ -105,6 +105,7 @@ hero:
 **[软仓](https://www.ruancang.net/)**
 **[一键激活Windows,office](https://kms.cx/)**
 **[音频视频转文字](https://www.any2text.online/zh)**
+**[PS资源](https://www.psdashi.com/)**
 
 
 
@@ -133,6 +134,7 @@ hero:
 **[I8K影视导航](https://i8k.tv/)**
 **[瓜子影视](https://gz857.com/)**
 **[可可影视](https://www.keke6.app/)**
+**[音乐下载](https://flacdownloader.com/)**
 
 
 
