@@ -15,7 +15,7 @@ hero:
   actions:
   # 主题选项： https://vitepress.dev/reference/default-theme-config#hero
     - theme: brand
-      text: 新闻
+      text: 搬屎
       link: https://news.05320532.xyz
     - theme: alt
       text: 论坛
