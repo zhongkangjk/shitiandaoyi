@@ -20,6 +20,9 @@ hero:
     - theme: alt
       text: 论坛
       link: https://bbs.05320532.xyz
+    - theme: alt
+      text: 写字板
+      link: https://anpai.05320532.xyz/
 
 
 
