@@ -58,6 +58,7 @@ hero:
 **[游民星空](https://www.gamersky.com/)**
 **[3DM](https://bbs.3dmgame.com/)**
 **[lol数据](https://101.qq.com/#/hero-rank-fight)**
+**[万物魔盒](https://i.pixcat.cn/)**
 **[V2EX](https://www.v2ex.com/)**
 **[导航网站](https://item.ink/)**
 **[笔点资源](https://www.bidianer.com/)**
@@ -83,6 +84,7 @@ hero:
 
 ### 工具&软件
 **[在线工具箱](https://www.convry.com/)**
+**[bilibili音频解析](https://www.pixcat.cn/lab/biliaudio.php)**
 **[QtScrcpy(windows控制安卓)](https://github.com/barry-ran/QtScrcpy)**
 **[维修指南网站](https://zh.ifixit.com/)**
 **[在线视频下载](https://www.datatool.vip/)**
