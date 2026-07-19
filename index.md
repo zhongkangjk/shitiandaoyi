@@ -131,6 +131,7 @@ hero:
 **[网易云音乐解析](https://api.toubiec.cn/wyapi.html)**
 **[音乐解锁](https://demo.unlock-music.dev/)**
 **[歌词下载](https://docs.myzony.com/#/)**
+**[免费追剧追踪](https://github.com/laoma2053/awesome-zhuiju-free)**
 **[seedhub](https://www.seedhub.cc/)**
 **[4K影视](https://4kvm.site/)**
 **[西瓜影院](https://sszzyy.com/)**
