@@ -65,6 +65,13 @@ hero:
 **[FMHY](https://fmhy.net/)**
 **[硬核指南](https://yinghezhinan.com/)**
 **[哈皮资源](https://hapiziyuan.com/)**
+**[鸭先知软件](https://www.yxzhi.com/)**
+**[前方资源](https://qianfangzy.com/)**
+**[小妖怪分享](https://www.xyg688.com/)**
+**[APP喵资源](https://www.appmiu.com/)**
+**[FC8软件库](https://fc8.top/)**
+**[423软件下载](https://www.423down.com/)**
+**[软件个锤子](https://www.rjgcz.com/)**
 
 
 
@@ -99,18 +106,13 @@ hero:
 **[佳能打印素材](https://creativepark.canon/sc/index.html)**
 **[TG频道推荐](https://rectg.com/)**
 **[在线文本转语音](https://www.text-to-speech.cn/)**
-**[前方资源](https://qianfangzy.com/)**
-**[小妖怪分享](https://www.xyg688.com/)**
-**[APP喵资源](https://www.appmiu.com/)**
-**[FC8软件库](https://fc8.top/)**
 **[jellyfin(流媒体分享软件)](https://github.com/jellyfin/jellyfin)**
-**[423软件下载](https://www.423down.com/)**
-**[软件个锤子](https://www.rjgcz.com/)**
 **[pdf工具](https://tools.pdf24.org/zh/)**
 **[软仓](https://www.ruancang.net/)**
 **[一键激活Windows,office](https://kms.cx/)**
 **[音频视频转文字](https://www.any2text.online/zh)**
 **[PS资源](https://www.psdashi.com/)**
+**[鸭先知电视TV观影指南](hhttps://www.yxzhi.com/tvbox)**
 
 
 
