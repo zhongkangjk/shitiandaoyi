@@ -117,7 +117,7 @@ hero:
 
 
 ### 游戏
-**[switch520](hhttps://www.gamers520.com/)**
+**[switch520](https://www.gamers520.com/)**
 **[9DM](http://www.9dmsgame.net/)**
 **[IGG](https://igg-games.com/)**
 **[pcgames](https://pcgamestorrents.com/)**
@@ -143,6 +143,9 @@ hero:
 **[瓜子影视](https://gz857.com/)**
 **[可可影视](https://www.keke6.app/)**
 **[音乐下载](https://flacdownloader.com/)**
+**[观影导航](https://www.qhdh.top/)**
+**[影巢](https://yc.movie1080.online/)**
+
 
 
 
