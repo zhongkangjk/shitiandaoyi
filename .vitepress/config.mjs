@@ -48,7 +48,7 @@ export default defineConfig({
     nav: [
       // { text: '主页', link: '/' },
       { text: '杂谈', link: '/note/zatan/完美的预设' },
-      { text: '摄影', link: '/note/sheying/01-快门-时间与运动' },
+      { text: '摄影', link: '/note/sheying/04-快门-时间与运动' },
       { text: '小说', link: '/note/xiaoshuo/天下圣贤豪杰' },
       { text: '自行车', link: '/note/zixingche/调变速' },
       { text: '游戏', link: '/note/youxi/CS准星设置' },
