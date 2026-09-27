@@ -32,8 +32,8 @@ function getList(params, path1, pathname) {
         }
     }
     
-    // 对文件进行排序（按文件名排序）
-    files.sort((a, b) => a.localeCompare(b, 'zh-CN'));
+    // 对文件进行排序（按去掉扩展名的文件名排序，避免 '-' 与 '.md' 的比较干扰；numeric 让数字编号按数值排序）
+    files.sort((a, b) => path.basename(a, '.md').localeCompare(path.basename(b, '.md'), 'zh-CN', { numeric: true }));
     
     // 先添加文件
     for (let file of files) {
