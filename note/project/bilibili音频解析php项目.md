@@ -2,6 +2,7 @@
 应该不让访问B站，就先不部署了，先存一下代码
 
 ### 代码
+```php
 <?php
 error_reporting(0);
 header('Content-Type: text/html; charset=utf-8');
@@ -888,3 +889,4 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && !empty($_POST['input'])) {
 </script>
 </body>
 </html>
+```
