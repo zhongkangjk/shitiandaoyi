@@ -54,7 +54,7 @@ function getList(params, path1, pathname) {
         res.push({
             text: dir,
             collapsible: true,
-            items: getList(subFiles, dirPath, `${pathname}${dir}`),
+            items: getList(subFiles, dirPath, `${pathname}${dir}/`),
         });
     }
     
