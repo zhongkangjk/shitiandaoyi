@@ -53,7 +53,9 @@ export default defineConfig({
       { text: '自行车', link: '/note/zixingche/调变速' },
       { text: '游戏', link: '/note/youxi/CS准星设置' },
       { text: '项目', link: '/note/project/使用 VitePress + GitHub Pages + Cloudflare 搭建个人网站记录' },
-      { text: '软件', link: '/note/ruanjian/装了win11的设置' }
+      { text: '软件', link: '/note/ruanjian/装了win11的设置' },
+      { text: '万物魔盒', link: '/note/wanwumohes/💬   关于' }
+
       // { text: '实力', items: [
       //   { text: '实力1', link: '/note/ceshi/' },
       //   { text: '实力2', link: '/note/ceshi2/' }
@@ -69,6 +71,7 @@ export default defineConfig({
       "/note/youxi/": set_sidebar("/note/youxi/"),
       "/note/project/": set_sidebar("/note/project/"),
       "/note/ruanjian/": set_sidebar("/note/ruanjian/"),
+      "/note/wanwumohes/": set_sidebar("/note/wanwumohes/"),
     },
 
 
