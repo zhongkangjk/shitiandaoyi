@@ -1,4 +1,4 @@
-﻿---
+---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
@@ -7,7 +7,7 @@ hero:
   text: "常用网站 · 工具"
   tagline: 信息聚合
   image: 
-    src: 'https://q1.05320532.xyz/PicGo/t.png'
+    src: '/t.png'
     alt: '一张加载很快的背景图片'
 
 
