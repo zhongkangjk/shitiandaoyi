@@ -17,12 +17,12 @@ hero:
     - theme: brand
       text: 搬屎
       link: https://news.05320532.xyz
-    - theme: alt
-      text: 论坛
-      link: https://bbs.05320532.xyz
-    - theme: alt
-      text: 写字板
-      link: https://anpai.05320532.xyz/
+    # - theme: alt
+    #   text: 论坛
+    #   link: https://bbs.05320532.xyz
+    # - theme: alt
+    #   text: 写字板
+    #   link: https://anpai.05320532.xyz/
 
 
 
@@ -40,12 +40,12 @@ hero:
 
 ### 自家网站
 **[搬屎大王](https://news.05320532.xyz)**
-**[BBS](https://bbs.05320532.xyz)**
-**[云盘](https://alist.05320532.xyz)**
+<!-- **[BBS](https://bbs.05320532.xyz)** -->
+<!-- **[云盘](https://alist.05320532.xyz)** -->
 **[LanTV](https://tv.05320532.xyz)**
-**[必剪提取字幕](https://tool.05320532.xyz/bijian/)**
-**[音频裁剪工具](https://tool.05320532.xyz/music-cut/)**
-**[音乐解锁](https://tool.05320532.xyz/music-unlock/)**
+<!-- **[必剪提取字幕](https://tool.05320532.xyz/bijian/)** -->
+<!-- **[音频裁剪工具](https://tool.05320532.xyz/music-cut/)** -->
+<!-- **[音乐解锁](https://tool.05320532.xyz/music-unlock/)** -->
 **[在线office编辑器](https://office.05320532.xyz/)**
 
 
