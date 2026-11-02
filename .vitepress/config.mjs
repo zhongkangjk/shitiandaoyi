@@ -17,7 +17,7 @@ export default defineConfig({
   // 设置目录
   // base: '/shitiandaoyi/',
   title: "世天道一",
-  description: "懒派掌门CEO与大弟子",
+  description: "",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     //设置搜索框
@@ -54,7 +54,6 @@ export default defineConfig({
       { text: '游戏', link: '/note/youxi/CS准星设置' },
       { text: '项目', link: '/note/project/使用 VitePress + GitHub Pages + Cloudflare 搭建个人网站记录' },
       { text: '软件', link: '/note/ruanjian/装了win11的设置' },
-      { text: '万物魔盒', link: '/note/wanwumohe/💬   关于' }
 
       // { text: '实力', items: [
       //   { text: '实力1', link: '/note/ceshi/' },
@@ -71,13 +70,12 @@ export default defineConfig({
       "/note/youxi/": set_sidebar("/note/youxi/"),
       "/note/project/": set_sidebar("/note/project/"),
       "/note/ruanjian/": set_sidebar("/note/ruanjian/"),
-      "/note/wanwumohe/": set_sidebar("/note/wanwumohe/"),
     },
 
 
-    socialLinks: [
-      { icon: 'slack', link: 'https://bbs.05320532.xyz' }
-    ],
+    // socialLinks: [
+    //   { icon: 'slack', link: 'https://bbs.05320532.xyz' }
+    // ],
     //底部配置
     footer: {
       // message: 'Released under the MIT License.',
